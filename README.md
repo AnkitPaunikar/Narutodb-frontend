@@ -1,4 +1,6 @@
-# React + Vite
+# Frontend of Naruto Wiki
+
+The application is created with React + Vite
 
   To run the application
 
