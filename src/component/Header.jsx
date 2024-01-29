@@ -38,7 +38,7 @@ const Header = () => {
         <div className='header-brand'>
           <a href='/'>
             <img src={chibiKakashi} alt='Logo' />
-            NARUTO DB
+            NARUTO Wiki
           </a>
         </div>
         {!hideOnRoutes.includes(location.pathname) && (
