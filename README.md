@@ -1,5 +1,7 @@
 # Frontend of Naruto Wiki
 
+A Demo Application to test Reactjs
+
 The application is created with React + Vite
 
   To run the application
