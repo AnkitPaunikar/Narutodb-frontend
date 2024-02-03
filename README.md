@@ -1,6 +1,7 @@
 # Frontend of Naruto Wiki
 
 **A Demo Application to test Reactjs**
+
 **To see a demo of application**: https://www.linkedin.com/posts/ankit-paunikar-822361204_mernstack-reactjs-nodejs-activity-7157722756829044739--TET?utm_source=share&utm_medium=member_desktop
 
 The application is created with React + Vite
